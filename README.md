@@ -2,12 +2,12 @@
 
 🚀 I'm a full-stack developer and blockchain enthusiast  
 🔗 I specialize in **Web3**, **DeFi**, **NFTs**, and **smart contract security**  
-🛠️ Skilled in **Solidity**, **Foundry**, **JavaScript**, **TypeScript**, and **viem**
+🛠️ Skilled in **Solidity**, **Foundry**, **JavaScript**, **TypeScript**, and **Viem**
 
 ---
 
 ### 🌐 Socials:
-[Discord](#) • [LinkedIn](https://www.linkedin.com/in/crypto-eth-1914112a5)
+[LinkedIn](https://www.linkedin.com/in/crypto-eth-1914112a5)
 
 ---
 
