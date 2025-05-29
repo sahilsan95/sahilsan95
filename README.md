@@ -11,7 +11,7 @@
 
 ### 📫 Connect with me:
 - [GitHub](https://github.com/sahilsan95)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) *(optional)*
+  
 
 ---
 > “Code is the law.” — Lawrence Lessig
