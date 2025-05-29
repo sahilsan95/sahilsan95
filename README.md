@@ -28,4 +28,4 @@
 - [LinkedIn](https://www.linkedin.com/in/crypto-eth-1914112a5)
 
 ---
-> “Code is the law.” — Lawrence Lessig
+> “U can have anything you want , if you want it badly enough” — ME
