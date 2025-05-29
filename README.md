@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hey, I'm Sahil Sanwal
 
-<!--
-**sahilsan95/sahilsan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a full-stack developer and blockchain enthusiast  
+🔗 I specialize in Web3 technologies, including **DeFi**, **NFTs**, and **smart contract security**  
+🛠️ Skilled in **Solidity**, **Foundry**, **JavaScript**, and **Viem**
 
-Here are some ideas to get you started:
+### 🧠 Current Focus:
+- Building and deploying secure smart contract-based dApps  
+- Exploring real-world use cases in **DeFi** and **NFTs**  
+- Participating in Web3 hackathons and technical communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- [GitHub](https://github.com/sahilsan95)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) *(optional)*
+
+---
+> “Code is the law.” — Lawrence Lessig
