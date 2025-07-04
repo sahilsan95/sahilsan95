@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Sahil Sanwal
 
 🚀 I'm a full-stack developer and blockchain enthusiast  
-🔗 I specialize in **Web3**, **DeFi**, **NFTs**, and **smart contract security**  
+🔗 I specialize in **Web3**, **DeFi**, **NFTs**, and **smart contract development**  
 🛠️ Skilled in **Solidity**, **Foundry**, **JavaScript**, **TypeScript**, and **Viem**
 
 ---
